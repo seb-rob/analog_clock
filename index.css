@@ -11,6 +11,7 @@
     position: absolute;
     border-radius: 20px;
     background-color: black;
+    transform-origin: bottom;       //to rotate hand from bottom by default it rotates from its middle point
 }
 #hour{
     top: 27.8%;
